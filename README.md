@@ -1,8 +1,13 @@
-# weather
-
+# Weather
+```
+A Simple app that enables users to check the condition of the weather in any location across the world.
+```
 ## Project setup
 ```
-npm install
+npm install vue
+```
+```
+Get your preferred Weather API and add it to the App.vue 
 ```
 
 ### Compiles and hot-reloads for development
